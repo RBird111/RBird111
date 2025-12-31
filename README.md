@@ -19,12 +19,6 @@ I am a passionate and dedicated software developer with a strong background in J
 ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat-square)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat-square)
-
-#### Stats
-![RBird111's Stats](https://github-readme-stats.vercel.app/api?username=RBird111&theme=radical&show_icons=true&hide_border=true&count_private=true)
-
-
-![RBird111's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RBird111&theme=radical&show_icons=true&hide_border=true&layout=compact)
 <!--
 **MrBird88/MrBird88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
